@@ -1,4 +1,4 @@
-## 欢迎来到 CipherCom
+## 欢迎来到 Cipher
 
 [点击此处编辑](https://github.com/SniperGG001/CipherCom/edit/master/README.md).
 
